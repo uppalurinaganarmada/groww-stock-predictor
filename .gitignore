@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+reports/*.xlsx
+reports/*.csv
+
+venv/
+.env
